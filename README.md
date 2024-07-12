@@ -1,2 +1,2 @@
-# Smart-Mango
-Smart Mango 🥭
+# Smart Mango 🥭
+
