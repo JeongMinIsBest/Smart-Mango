@@ -1,0 +1,6 @@
+discord.py[voice]
+python-dotenv
+gTTS
+yt-dlp
+PyNaCl
+davey
