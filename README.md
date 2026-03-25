@@ -109,6 +109,4 @@ Smart-Mango/
 
 <div align="center">
 
-Made with 🥭 and Python
-
 </div>
